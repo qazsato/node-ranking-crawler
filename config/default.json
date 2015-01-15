@@ -1,0 +1,20 @@
+{
+	"url" : "http://www.google.com/search",
+	"maxPage": 2,
+	"data" : [
+	{
+		"title": "Google",
+		"word": "Google",
+		"domain": "google.co.jp"
+		},
+	{
+		"title": "Yahoo",
+		"word": "Yahoo",
+		"domain": "yahoo.com"
+	},
+	{
+		"title": "Bing",
+		"word": "Bing",
+		"domain": "bing.com"
+	}]
+}

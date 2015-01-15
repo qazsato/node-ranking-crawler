@@ -1,0 +1,12 @@
+{
+	"name": "RankScraiping",
+	"version": "0.0.1",
+	"description": "RankScraiping",
+	"author": "qaz",
+	"license": "MIT",
+	"dependencies": {
+		"config": "*",
+		"async": "*",
+		"cheerio-httpcli":"*"
+	}
+}
