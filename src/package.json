@@ -1,12 +1,12 @@
 {
-	"name": "RankScraiping",
-	"version": "0.0.1",
-	"description": "RankScraiping",
-	"author": "qaz",
-	"license": "MIT",
-	"dependencies": {
-		"config": "*",
-		"async": "*",
-		"cheerio-httpcli":"*"
-	}
+  "name": "RankScraiping",
+  "version": "1.0.0",
+  "description": "RankScraiping",
+  "author": "qaz-s",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.2.1",
+    "cheerio-httpcli": "^0.3.2",
+    "config": "^1.14.0"
+  }
 }
