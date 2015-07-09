@@ -1,6 +1,23 @@
 {
-  "url" : "http://www.google.com/search",
-  "maxPage": 2,
+	"global": {
+		"url" : "http://www.google.com/search",
+    "maxPage": 2,
+		"delayTime": 3000,
+		"cron": {
+			"enable": false,
+			"time": "0 0 0 * * 0-6"
+		},
+		"spreadsheet": {
+			"enable": false,
+			"spreadsheetId": "",
+			"worksheetId": "",
+			"username": "",
+			"password": ""
+		},
+		"csv": {
+			"enable": true
+		}
+	},
   "data" : [
   {
     "title": "Google",
