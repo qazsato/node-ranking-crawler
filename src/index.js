@@ -5,7 +5,7 @@ var cronJob     = require('cron').CronJob;            // cron
 var client      = require('cheerio-httpcli');         // 通信
 var fs          = require('fs');                      // ファイル
 var async       = require('async');                   // 同期処理
-// var Spreadsheet = require('edit-google-spreadsheet'); // スプレッドシート
+var Spreadsheet = require('edit-google-spreadsheet'); // スプレッドシート
 
 var start = function () {
   asciiFunc(function () {

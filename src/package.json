@@ -8,6 +8,7 @@
     "asciify": "^1.3.5",
     "async": "^1.2.1",
     "cheerio-httpcli": "^0.3.2",
+    "edit-google-spreadsheet": "^0.2.19",
     "config": "^1.14.0",
     "cron": "^1.0.9"
   }
